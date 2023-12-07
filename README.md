@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 
- 🌱 I’m currently learning  HTML , CSS, JS .
+ 🌱 I’m currently learning  HTML , CSS, JS ,SASS.
  
 ✨ I always aim for the most functional, applicable, and readable code.
 
